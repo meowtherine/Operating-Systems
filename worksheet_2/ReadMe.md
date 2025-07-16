@@ -228,3 +228,7 @@ void fb_print_char(char c) {
 ![alt text](image-6.png)
 ![alt text](image-7.png)
 where i used make run, i was unable to do anything in that terminal but in a different terminal i could write and the back of text was coloured to black
+
+- worksheet 2 pt 2
+i started by creating all of the files and copy and pasting all of the code into these and setting up my .h files
+then created the functions for pic.c and pic.h
